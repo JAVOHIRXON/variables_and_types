@@ -5,4 +5,4 @@ b = 4
 # Assing 8 (int value) to 'c' variable;
 c = 8
 # Print the result of that expression 'https://github.com/Final-PythonFoundationHomework/variables_and_types/blob/main/README.md#begin07';
-print(a+a+a/b*c)
+print((2*a/b)*c)
